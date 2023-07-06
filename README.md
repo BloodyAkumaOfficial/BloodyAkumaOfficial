@@ -3,8 +3,8 @@ Hello! My name is Denys, and I am deeply immersed in the world of web developmen
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/denys-khrushchov-061423269/) 
-[![Telegram](https://bloodyakumaofficial.github.io/GeoCode/style/icon.png)]((https://t.me/bloody_akuma))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/denys-khrushchov-061423269) 
+[![](https://bloodyakumaofficial.github.io/GeoCode/style/icon.png)](https://t.me/bloody_akuma)
 
 
 # 💻 Tech Stack:
